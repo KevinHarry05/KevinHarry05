@@ -1,44 +1,66 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KEVIN%20HARRY%20A&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&theme=dracula&desc=MERN%20STACK%20DEVELOPER%20|%20AI%20ENTHUSIAST&descAlignY=55"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
-<h3 align="center">
-  Full Stack MERN Developer • AI Enthusiast • Problem Solver
-</h3>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;IoT+%26+Blockchain+Developer;Open+Source+Contributor"/>
+<h1 align="center">
+  KEVIN HARRY A
+  <br><br>
+  MERN STACK DEVELOPER
+</h1>
+
+###
+
+<p align="left">
+A Computer Science Engineering undergraduate at St. Joseph’s College of Engineering, with a strong focus on Full-Stack Web Development (MERN Stack) and Applied Artificial Intelligence. I am passionate about building scalable, real-world solutions that combine clean system design, open-source technologies, and intelligent automation. My experience spans web application development, AI/ML systems, IoT-driven platforms, and blockchain-enabled solutions, with hands-on exposure through internships, hackathons, and academic projects. I enjoy solving complex problems that sit at the intersection of software engineering, data intelligence, and societal impact.
 </p>
 
----
-
-## 👨‍💻 About Me
-
-<p align="justify">
-I am a Computer Science Engineering undergraduate at <b>St. Joseph’s College of Engineering</b> with strong expertise in <b>Full-Stack Web Development (MERN Stack)</b>, <b>Artificial Intelligence</b>, and <b>Scalable System Design</b>.
-
-I enjoy building impactful real-world applications that integrate intelligent automation, modern UI/UX principles, cloud technologies, IoT systems, and AI-driven workflows. My work spans healthcare, smart infrastructure, blockchain solutions, sentiment analysis, and educational platforms.
-</p>
-
----
-
-## 🚀 Tech Stack
+###
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,java,fastapi,git,github,vscode&perline=5"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+###
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KevinHarry05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinHarry05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
 
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHarry05&theme=dracula&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHarry05&theme=dracula" height="150" alt="streak graph" />
 
 </div>
 
@@ -46,75 +68,46 @@ I enjoy building impactful real-world applications that integrate intelligent au
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=KevinHarry05&theme=dracula&row=1&column=6&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=KevinHarry05&theme=dracula&row=1&column=6" alt="trophy graph" />
 
 </div>
 
----
+###
 
-## 🛠️ Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="left">
 
 ### 🔹 Chandas Identification System
-AI-powered poetic meter identification platform using Natural Language Processing and pattern recognition for Sanskrit/Tamil literature analysis.
+AI-powered poetic meter identification system using NLP and pattern recognition techniques.
 
 ### 🔹 Rockfall Prediction System
-Machine learning-based geological hazard prediction system designed to identify potential rockfall zones and improve environmental safety monitoring.
+Machine learning-based hazard prediction system for identifying potential rockfall zones.
 
 ### 🔹 Smart Building Management System
-AI + IoT-powered infrastructure monitoring and grievance management platform with predictive maintenance and real-time issue tracking.
+AI + IoT-based infrastructure monitoring and predictive maintenance platform.
 
 ### 🔹 Alumni Connect Platform
-Full-stack MERN application connecting students and alumni through mentorship, networking, events, and placement opportunities.
-
----
-
-## 🏆 Achievements
-
-- 🥉 Secured 3rd Place in Future-Forge Hackathon
-- 🚀 SIH 2025 Internal Hackathon Shortlisted
-- 📜 Certified by Meta, IBM, NPTEL & HackerRank
-- 💡 Built AI, Blockchain, IoT & Full-Stack Applications
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/KevinHarry05">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://www.linkedin.com/in/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+Full-stack MERN application for alumni networking, mentorship, and event management.
 
 </div>
 
----
-
-## ⚡ Developer Animation
+###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YnR4MXB6Zm1tdHZoOHp5dzNpaGFwYzNxamZoYmljNXQzNWZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
----
-
-## 👀 Profile Views
+###
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=KevinHarry05&label=Profile%20Views&color=bd93f9&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=KevinHarry05&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
 
----
+###
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&theme=dracula"/>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
