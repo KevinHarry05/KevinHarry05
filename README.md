@@ -38,17 +38,7 @@ A Computer Science Engineering undergraduate at St. Joseph’s College of Engine
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinHarry05&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinHarry05&theme=radical" height="180em"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinHarry05&theme=radical&utcOffset=5.5" height="180em"/>
+<img src="https://img.shields.io/badge/Open%20Source%20Contributions-500%2B-blueviolet?style=for-the-badge&logo=github"/>
 
 </div>
 
