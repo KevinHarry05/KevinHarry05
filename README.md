@@ -12,49 +12,29 @@
 
 ###
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;IoT+%26+Blockchain+Developer;Building+Scalable+Applications" />
+</p>
+
+###
+
 <p align="left">
 A Computer Science Engineering undergraduate at St. Joseph’s College of Engineering, with a strong focus on Full-Stack Web Development (MERN Stack) and Applied Artificial Intelligence. I am passionate about building scalable, real-world solutions that combine clean system design, open-source technologies, and intelligent automation. My experience spans web application development, AI/ML systems, IoT-driven platforms, and blockchain-enabled solutions, with hands-on exposure through internships, hackathons, and academic projects. I enjoy solving complex problems that sit at the intersection of software engineering, data intelligence, and societal impact.
 </p>
 
 ###
 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="fastapi logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,java,fastapi,git,github,vscode&perline=5"/>
 
 </div>
 
 ###
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
@@ -69,6 +49,34 @@ A Computer Science Engineering undergraduate at St. Joseph’s College of Engine
 <div align="center">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinHarry05&theme=radical"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KevinHarry05&theme=react-dark&hide_border=true&area=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KevinHarry05&theme=radical" height="180em"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KevinHarry05&theme=radical" height="180em"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KevinHarry05&theme=radical" height="180em"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KevinHarry05&theme=radical&utcOffset=5.5" height="180em"/>
 
 </div>
 
@@ -127,11 +135,15 @@ Full-stack MERN application for alumni networking, mentorship, and event managem
 
 ###
 
+<h2 align="center">⚡ Developer Animation</h2>
+
 <div align="center">
   <img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YnR4MXB6Zm1tdHZoOHp5dzNpaGFwYzNxamZoYmljNXQzNWZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
 ###
+
+<h2 align="center">👀 Profile Views</h2>
 
 <div align="center">
 
