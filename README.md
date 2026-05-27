@@ -1,3 +1,6 @@
+# README.md
+
+```md
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
@@ -8,7 +11,9 @@
 
 ###
 
-<p align="left">A Computer Science Engineering undergraduate at St. Joseph’s College of Engineering, with a strong focus on Full-Stack Web Development (MERN Stack) and Applied Artificial Intelligence. I am passionate about building scalable, real-world solutions that combine clean system design, open-source technologies, and intelligent automation. My experience spans web application development, AI/ML systems, IoT-driven platforms, and blockchain-enabled solutions, with hands-on exposure through internships, hackathons, and academic projects. I enjoy solving complex problems that sit at the intersection of software engineering, data intelligence, and societal impact.</p>
+<p align="left">
+A Computer Science Engineering undergraduate at St. Joseph’s College of Engineering, with a strong focus on Full-Stack Web Development (MERN Stack) and Applied Artificial Intelligence. I am passionate about building scalable, real-world solutions that combine clean system design, open-source technologies, and intelligent automation. My experience spans web application development, AI/ML systems, IoT-driven platforms, and blockchain-enabled solutions, with hands-on exposure through internships, hackathons, and academic projects. I enjoy solving complex problems that sit at the intersection of software engineering, data intelligence, and societal impact.
+</p>
 
 ###
 
@@ -40,7 +45,9 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/KevinHarry05/KevinHarry05/stats-output/stats.svg" height="150" alt="stats graph"  />
+
   <img src="https://streak-stats.demolab.com?user=KevinHarry05&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://raw.githubusercontent.com/KevinHarry05/KevinHarry05/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
@@ -51,3 +58,4 @@
 </div>
 
 ###
+```
