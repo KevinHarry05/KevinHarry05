@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
 
 ###
@@ -58,9 +58,9 @@ A Computer Science Engineering undergraduate at St. Joseph’s College of Engine
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinHarry05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinHarry05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" height="170"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHarry05&theme=dracula" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinHarry05&layout=compact&theme=radical&cache_seconds=1800" height="170"/>
 
 </div>
 
@@ -68,7 +68,7 @@ A Computer Science Engineering undergraduate at St. Joseph’s College of Engine
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=KevinHarry05&theme=dracula&row=1&column=6" alt="trophy graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KevinHarry05&theme=radical"/>
 
 </div>
 
@@ -94,8 +94,41 @@ Full-stack MERN application for alumni networking, mentorship, and event managem
 
 ###
 
+<h2 align="center">🏆 Achievements</h2>
+
+<div align="left">
+
+- 🥉 3rd Place — Future Forge Hackathon  
+- 🚀 SIH 2025 Internal Hackathon Shortlisted  
+- 📜 Meta Frontend Certification  
+- 💡 Built AI, Blockchain & IoT Projects  
+
+</div>
+
+###
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YnR4MXB6Zm1tdHZoOHp5dzNpaGFwYzNxamZoYmljNXQzNWZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+
+<a href="https://github.com/KevinHarry05">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+</div>
+
+###
+
+<div align="center">
+  <img height="220" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnB3YnR4MXB6Zm1tdHZoOHp5dzNpaGFwYzNxamZoYmljNXQzNWZ1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
 </div>
 
 ###
@@ -109,5 +142,5 @@ Full-stack MERN application for alumni networking, mentorship, and event managem
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=120&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" />
 </div>
