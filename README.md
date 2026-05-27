@@ -1,15 +1,13 @@
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&section=header&text=KEVIN%20HARRY%20A&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&theme=dracula"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&text=KEVIN%20HARRY%20A&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&theme=dracula&desc=MERN%20STACK%20DEVELOPER%20|%20AI%20ENTHUSIAST&descAlignY=55"/>
 </div>
 
 <h3 align="center">
-  MERN Stack Developer | AI Enthusiast | Full Stack Engineer
+  Full Stack MERN Developer • AI Enthusiast • Problem Solver
 </h3>
 
----
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=BD93F9&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;Open+Source+Contributor;IoT+%26+Blockchain+Developer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=BD93F9&center=true&vCenter=true&width=750&lines=Full+Stack+MERN+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Web+Applications;IoT+%26+Blockchain+Developer;Open+Source+Contributor"/>
 </p>
 
 ---
@@ -17,9 +15,9 @@
 ## 👨‍💻 About Me
 
 <p align="justify">
-I am a Computer Science Engineering undergraduate at <b>St. Joseph’s College of Engineering</b> with a strong focus on <b>Full-Stack Web Development (MERN Stack)</b> and <b>Applied Artificial Intelligence</b>.
+I am a Computer Science Engineering undergraduate at <b>St. Joseph’s College of Engineering</b> with strong expertise in <b>Full-Stack Web Development (MERN Stack)</b>, <b>Artificial Intelligence</b>, and <b>Scalable System Design</b>.
 
-I enjoy building scalable real-world applications that combine clean architecture, intelligent automation, and modern UI/UX principles. My experience includes AI systems, IoT platforms, blockchain-enabled solutions, and cloud-based web applications developed through internships, hackathons, and academic projects.
+I enjoy building impactful real-world applications that integrate intelligent automation, modern UI/UX principles, cloud technologies, IoT systems, and AI-driven workflows. My work spans healthcare, smart infrastructure, blockchain solutions, sentiment analysis, and educational platforms.
 </p>
 
 ---
@@ -28,7 +26,7 @@ I enjoy building scalable real-world applications that combine clean architectur
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,java,fastapi,git,github,vscode&perline=5" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,tailwind,python,java,fastapi,git,github,vscode&perline=5"/>
 
 </div>
 
@@ -38,9 +36,9 @@ I enjoy building scalable real-world applications that combine clean architectur
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KevinHarry05/KevinHarry05/stats-output/stats.svg" height="170"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=KevinHarry05&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com?user=KevinHarry05&theme=dracula&hide_border=false&border_radius=10" height="170"/>
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=KevinHarry05&theme=dracula&hide_border=false"/>
 
 </div>
 
@@ -48,7 +46,7 @@ I enjoy building scalable real-world applications that combine clean architectur
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/KevinHarry05/KevinHarry05/trophy-output/trophy.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=KevinHarry05&theme=dracula&row=1&column=6&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -56,17 +54,26 @@ I enjoy building scalable real-world applications that combine clean architectur
 
 ## 🛠️ Featured Projects
 
+### 🔹 Chandas Identification System
+AI-powered poetic meter identification platform using Natural Language Processing and pattern recognition for Sanskrit/Tamil literature analysis.
+
+### 🔹 Rockfall Prediction System
+Machine learning-based geological hazard prediction system designed to identify potential rockfall zones and improve environmental safety monitoring.
+
 ### 🔹 Smart Building Management System
-AI + IoT powered grievance and infrastructure monitoring platform for smart campus maintenance.
+AI + IoT-powered infrastructure monitoring and grievance management platform with predictive maintenance and real-time issue tracking.
 
-### 🔹 Healthcare Sentiment AI
-Emotion and sentiment analysis platform with AI chatbot integration and voice-based interaction.
+### 🔹 Alumni Connect Platform
+Full-stack MERN application connecting students and alumni through mentorship, networking, events, and placement opportunities.
 
-### 🔹 Driver Drowsiness Detection System
-Real-time computer vision-based safety monitoring system for accident prevention.
+---
 
-### 🔹 Blockchain-based Digital Farmer ID
-Transparent farmer verification and agricultural supply-chain management platform.
+## 🏆 Achievements
+
+- 🥉 Secured 3rd Place in Future-Forge Hackathon
+- 🚀 SIH 2025 Internal Hackathon Shortlisted
+- 📜 Certified by Meta, IBM, NPTEL & HackerRank
+- 💡 Built AI, Blockchain, IoT & Full-Stack Applications
 
 ---
 
@@ -78,7 +85,7 @@ Transparent farmer verification and agricultural supply-chain management platfor
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -90,7 +97,7 @@ Transparent farmer verification and agricultural supply-chain management platfor
 
 ---
 
-## ⚡ Fun Animation
+## ⚡ Developer Animation
 
 <div align="center">
   <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
@@ -98,9 +105,9 @@ Transparent farmer verification and agricultural supply-chain management platfor
 
 ---
 
-<div align="center">
+## 👀 Profile Views
 
-### 👀 Profile Views
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=KevinHarry05&label=Profile%20Views&color=bd93f9&style=for-the-badge"/>
 
@@ -109,5 +116,5 @@ Transparent farmer verification and agricultural supply-chain management platfor
 ---
 
 <div>
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=dracula"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&theme=dracula"/>
 </div>
